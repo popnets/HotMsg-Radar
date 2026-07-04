@@ -1,8 +1,13 @@
 <div align="center">
 
-# 🎯TrendRadar
+# 🎯 TrendRadar — 多平台热点聚合工具
 
-<strong>🚀 最快一分钟部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯</strong>
+> 🚀 一分钟部署的热点助手 —— 告别信息过载，只看真正关心的新闻
+
+forked from [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)，持续维护更新。
+
+[![GitHub stars](https://img.shields.io/github/stars/popnets/TrendRadar)](https://github.com/popnets/TrendRadar/stargazers)
+[![GitHub license](https://img.shields.io/github/license/popnets/TrendRadar)](https://github.com/popnets/TrendRadar/blob/master/LICENSE)
 
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
